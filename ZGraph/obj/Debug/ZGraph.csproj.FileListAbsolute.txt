@@ -1,0 +1,191 @@
+C:\Users\Pengpai\Desktop\ZGraph\ZGraph\bin\Debug\ZGraph.dll
+C:\Users\Pengpai\Desktop\ZGraph\ZGraph\bin\Debug\ZGraph.pdb
+C:\Users\Pengpai\Desktop\ZGraph\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pengpai\Desktop\ZGraph\ZGraph\obj\Debug\ZhengJuyin.UI.ZGraph.resources
+C:\Users\Pengpai\Desktop\ZGraph\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+C:\Users\Pengpai\Desktop\ZGraph\ZGraph\obj\Debug\ZGraph.dll
+C:\Users\Pengpai\Desktop\ZGraph\ZGraph\obj\Debug\ZGraph.pdb
+C:\Users\Pengpai\Desktop\无刷电机\ZGraph\ZGraph\bin\Debug\ZGraph.dll
+C:\Users\Pengpai\Desktop\无刷电机\ZGraph\ZGraph\bin\Debug\ZGraph.pdb
+C:\Users\Pengpai\Desktop\无刷电机\ZGraph\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pengpai\Desktop\无刷电机\ZGraph\ZGraph\obj\Debug\ZhengJuyin.UI.ZGraph.resources
+C:\Users\Pengpai\Desktop\无刷电机\ZGraph\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+C:\Users\Pengpai\Desktop\无刷电机\ZGraph\ZGraph\obj\Debug\ZGraph.dll
+C:\Users\Pengpai\Desktop\无刷电机\ZGraph\ZGraph\obj\Debug\ZGraph.pdb
+E:\毕设资料\无刷电机\ZGraph\ZGraph\bin\Debug\ZGraph.dll
+E:\毕设资料\无刷电机\ZGraph\ZGraph\bin\Debug\ZGraph.pdb
+E:\毕设资料\无刷电机\ZGraph\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+E:\毕设资料\无刷电机\ZGraph\ZGraph\obj\Debug\ZhengJuyin.UI.ZGraph.resources
+E:\毕设资料\无刷电机\ZGraph\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+E:\毕设资料\无刷电机\ZGraph\ZGraph\obj\Debug\ZGraph.dll
+E:\毕设资料\无刷电机\ZGraph\ZGraph\obj\Debug\ZGraph.pdb
+E:\毕设资料\上位机工程记录\ZGraph\ZGraph\bin\Debug\ZGraph.dll
+E:\毕设资料\上位机工程记录\ZGraph\ZGraph\bin\Debug\ZGraph.pdb
+E:\毕设资料\上位机工程记录\ZGraph\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+E:\毕设资料\上位机工程记录\ZGraph\ZGraph\obj\Debug\ZhengJuyin.UI.ZGraph.resources
+E:\毕设资料\上位机工程记录\ZGraph\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+E:\毕设资料\上位机工程记录\ZGraph\ZGraph\obj\Debug\ZGraph.dll
+E:\毕设资料\上位机工程记录\ZGraph\ZGraph\obj\Debug\ZGraph.pdb
+E:\毕设资料\上位机工程记录\ZLGControler\ZLGControler\ZGraph\bin\Debug\ZGraph.dll
+E:\毕设资料\上位机工程记录\ZLGControler\ZLGControler\ZGraph\bin\Debug\ZGraph.pdb
+E:\毕设资料\上位机工程记录\ZLGControler\ZLGControler\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+E:\毕设资料\上位机工程记录\ZLGControler\ZLGControler\ZGraph\obj\Debug\ZLGWork.UI.ZGraph.resources
+E:\毕设资料\上位机工程记录\ZLGControler\ZLGControler\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+E:\毕设资料\上位机工程记录\ZLGControler\ZLGControler\ZGraph\obj\Debug\ZGraph.dll
+E:\毕设资料\上位机工程记录\ZLGControler\ZLGControler\ZGraph\obj\Debug\ZGraph.pdb
+E:\毕设资料\上位机工程记录\ZLGControler\ZGraph\bin\Debug\ZGraph.dll
+E:\毕设资料\上位机工程记录\ZLGControler\ZGraph\bin\Debug\ZGraph.pdb
+E:\毕设资料\上位机工程记录\ZLGControler\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+E:\毕设资料\上位机工程记录\ZLGControler\ZGraph\obj\Debug\ZLGWork.UI.ZGraph.resources
+E:\毕设资料\上位机工程记录\ZLGControler\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+E:\毕设资料\上位机工程记录\ZLGControler\ZGraph\obj\Debug\ZGraph.dll
+E:\毕设资料\上位机工程记录\ZLGControler\ZGraph\obj\Debug\ZGraph.pdb
+C:\Documents and Settings\yangpengpai\桌面\ZLGControler\ZGraph\bin\Debug\ZGraph.dll
+C:\Documents and Settings\yangpengpai\桌面\ZLGControler\ZGraph\bin\Debug\ZGraph.pdb
+C:\Documents and Settings\yangpengpai\桌面\ZLGControler\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yangpengpai\桌面\ZLGControler\ZGraph\obj\Debug\ZLGWork.UI.ZGraph.resources
+C:\Documents and Settings\yangpengpai\桌面\ZLGControler\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+C:\Documents and Settings\yangpengpai\桌面\ZLGControler\ZGraph\obj\Debug\ZGraph.dll
+C:\Documents and Settings\yangpengpai\桌面\ZLGControler\ZGraph\obj\Debug\ZGraph.pdb
+C:\Documents and Settings\yangpengpai\桌面\文件夹\ZLGControler\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yangpengpai\桌面\文件夹\ZLGControler\ZGraph\obj\Debug\ZLGWork.UI.ZGraph.resources
+C:\Documents and Settings\yangpengpai\桌面\文件夹\ZLGControler\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+C:\Documents and Settings\yangpengpai\桌面\文件夹\ZLGControler\ZGraph\obj\Debug\ZGraph.dll
+C:\Documents and Settings\yangpengpai\桌面\文件夹\ZLGControler\ZGraph\bin\Debug\ZGraph.dll
+C:\Documents and Settings\yangpengpai\桌面\文件夹\ZLGControler\ZGraph\bin\Debug\ZGraph.pdb
+C:\Documents and Settings\yangpengpai\桌面\文件夹\ZLGControler\ZGraph\obj\Debug\ZGraph.pdb
+C:\Users\pengpai\Desktop\各种资料\ZLGControler\ZGraph\bin\Debug\ZGraph.dll
+C:\Users\pengpai\Desktop\各种资料\ZLGControler\ZGraph\bin\Debug\ZGraph.pdb
+C:\Users\pengpai\Desktop\各种资料\ZLGControler\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pengpai\Desktop\各种资料\ZLGControler\ZGraph\obj\Debug\ZLGWork.UI.ZGraph.resources
+C:\Users\pengpai\Desktop\各种资料\ZLGControler\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+C:\Users\pengpai\Desktop\各种资料\ZLGControler\ZGraph\obj\Debug\ZGraph.dll
+C:\Users\pengpai\Desktop\各种资料\ZLGControler\ZGraph\obj\Debug\ZGraph.pdb
+C:\Users\pengpai\Desktop\Project1\1控件增加了侧边栏\ZGraph\bin\Debug\ZGraph.dll
+C:\Users\pengpai\Desktop\Project1\1控件增加了侧边栏\ZGraph\bin\Debug\ZGraph.pdb
+C:\Users\pengpai\Desktop\Project1\1控件增加了侧边栏\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pengpai\Desktop\Project1\1控件增加了侧边栏\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+C:\Users\pengpai\Desktop\Project1\1控件增加了侧边栏\ZGraph\obj\Debug\ZGraph.dll
+C:\Users\pengpai\Desktop\Project1\1控件增加了侧边栏\ZGraph\obj\Debug\ZGraph.pdb
+C:\Users\pengpai\Desktop\Project1\1控件增加了侧边栏\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+C:\Users\pengpai\Desktop\波形控件升级版\ZGraph\bin\Debug\ZGraph.dll
+C:\Users\pengpai\Desktop\波形控件升级版\ZGraph\bin\Debug\ZGraph.pdb
+C:\Users\pengpai\Desktop\波形控件升级版\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pengpai\Desktop\波形控件升级版\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+C:\Users\pengpai\Desktop\波形控件升级版\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+C:\Users\pengpai\Desktop\波形控件升级版\ZGraph\obj\Debug\ZGraph.dll
+C:\Users\pengpai\Desktop\波形控件升级版\ZGraph\obj\Debug\ZGraph.pdb
+D:\360安全浏览器下载\zip (1)\波形控件升级版\ZGraph\bin\Debug\ZGraph.dll
+D:\360安全浏览器下载\zip (1)\波形控件升级版\ZGraph\bin\Debug\ZGraph.pdb
+D:\360安全浏览器下载\zip (1)\波形控件升级版\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+D:\360安全浏览器下载\zip (1)\波形控件升级版\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+D:\360安全浏览器下载\zip (1)\波形控件升级版\ZGraph\obj\Debug\ZGraph.dll
+D:\360安全浏览器下载\zip (1)\波形控件升级版\ZGraph\obj\Debug\ZGraph.pdb
+D:\360安全浏览器下载\zip (1)\修改2\波形控件升级版\ZGraph\bin\Debug\ZGraph.dll
+D:\360安全浏览器下载\zip (1)\修改2\波形控件升级版\ZGraph\bin\Debug\ZGraph.pdb
+D:\360安全浏览器下载\zip (1)\修改2\波形控件升级版\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+D:\360安全浏览器下载\zip (1)\修改2\波形控件升级版\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+D:\360安全浏览器下载\zip (1)\修改2\波形控件升级版\ZGraph\obj\Debug\ZGraph.dll
+D:\360安全浏览器下载\zip (1)\修改2\波形控件升级版\ZGraph\obj\Debug\ZGraph.pdb
+D:\360安全浏览器下载\zip (1)\修改2\波形控件升级版\ZGraph\obj\Debug\Pengpai.UI.Properties.Resources.resources
+D:\360安全浏览器下载\zip (1)\修改2\修该2\波形控件升级版\ZGraph\bin\Debug\ZGraph.dll
+D:\360安全浏览器下载\zip (1)\修改2\修该2\波形控件升级版\ZGraph\bin\Debug\ZGraph.pdb
+D:\360安全浏览器下载\zip (1)\修改2\修该2\波形控件升级版\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+D:\360安全浏览器下载\zip (1)\修改2\修该2\波形控件升级版\ZGraph\obj\Debug\Pengpai.UI.Properties.Resources.resources
+D:\360安全浏览器下载\zip (1)\修改2\修该2\波形控件升级版\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+D:\360安全浏览器下载\zip (1)\修改2\修该2\波形控件升级版\ZGraph\obj\Debug\ZGraph.dll
+D:\360安全浏览器下载\zip (1)\修改2\修该2\波形控件升级版\ZGraph\obj\Debug\ZGraph.pdb
+G:\CSproject\波形控件升级版\ZGraph\bin\Debug\ZGraph.dll
+G:\CSproject\波形控件升级版\ZGraph\bin\Debug\ZGraph.pdb
+G:\CSproject\波形控件升级版\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+G:\CSproject\波形控件升级版\ZGraph\obj\Debug\Pengpai.UI.Properties.Resources.resources
+G:\CSproject\波形控件升级版\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+G:\CSproject\波形控件升级版\ZGraph\obj\Debug\ZGraph.dll
+G:\CSproject\波形控件升级版\ZGraph\obj\Debug\ZGraph.pdb
+G:\CSproject\20170420\ZGraph\bin\Debug\ZGraph.dll
+G:\CSproject\20170420\ZGraph\bin\Debug\ZGraph.pdb
+G:\CSproject\20170420\ZGraph\obj\Debug\ZGraph.csprojResolveAssemblyReference.cache
+G:\CSproject\20170420\ZGraph\obj\Debug\Pengpai.UI.Properties.Resources.resources
+G:\CSproject\20170420\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+G:\CSproject\20170420\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+G:\CSproject\20170420\ZGraph\obj\Debug\ZGraph.dll
+G:\CSproject\20170420\ZGraph\obj\Debug\ZGraph.pdb
+G:\CSproject\20170420Master\ZGraph\bin\Debug\ZGraph.dll
+G:\CSproject\20170420Master\ZGraph\bin\Debug\ZGraph.pdb
+G:\CSproject\20170420Master\ZGraph\obj\Debug\ZGraph.csprojResolveAssemblyReference.cache
+G:\CSproject\20170420Master\ZGraph\obj\Debug\Pengpai.UI.Properties.Resources.resources
+G:\CSproject\20170420Master\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+G:\CSproject\20170420Master\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+G:\CSproject\20170420Master\ZGraph\obj\Debug\ZGraph.dll
+G:\CSproject\20170420Master\ZGraph\obj\Debug\ZGraph.pdb
+G:\CSproject\20170420M\ZGraph\bin\Debug\ZGraph.dll
+G:\CSproject\20170420M\ZGraph\bin\Debug\ZGraph.pdb
+G:\CSproject\20170420M\ZGraph\obj\Debug\ZGraph.csprojResolveAssemblyReference.cache
+G:\CSproject\20170420M\ZGraph\obj\Debug\Pengpai.UI.Properties.Resources.resources
+G:\CSproject\20170420M\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+G:\CSproject\20170420M\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+G:\CSproject\20170420M\ZGraph\obj\Debug\ZGraph.dll
+G:\CSproject\20170420M\ZGraph\obj\Debug\ZGraph.pdb
+G:\CSproject\20170421M\ZGraph\bin\Debug\ZGraph.dll
+G:\CSproject\20170421M\ZGraph\bin\Debug\ZGraph.pdb
+G:\CSproject\20170421M\ZGraph\obj\Debug\Pengpai.UI.Properties.Resources.resources
+G:\CSproject\20170421M\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+G:\CSproject\20170421M\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+G:\CSproject\20170421M\ZGraph\obj\Debug\ZGraph.dll
+G:\CSproject\20170421M\ZGraph\obj\Debug\ZGraph.pdb
+G:\CSproject\20170421半坐标版\ZGraph\bin\Debug\ZGraph.dll
+G:\CSproject\20170421半坐标版\ZGraph\bin\Debug\ZGraph.pdb
+G:\CSproject\20170421半坐标版\ZGraph\obj\Debug\ZGraph.csprojResolveAssemblyReference.cache
+G:\CSproject\20170421半坐标版\ZGraph\obj\Debug\Pengpai.UI.Properties.Resources.resources
+G:\CSproject\20170421半坐标版\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+G:\CSproject\20170421半坐标版\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+G:\CSproject\20170421半坐标版\ZGraph\obj\Debug\ZGraph.dll
+G:\CSproject\20170421半坐标版\ZGraph\obj\Debug\ZGraph.pdb
+G:\CSproject\20170424M\ZGraph\bin\Debug\ZGraph.dll
+G:\CSproject\20170424M\ZGraph\bin\Debug\ZGraph.pdb
+G:\CSproject\20170424M\ZGraph\obj\Debug\ZGraph.csprojResolveAssemblyReference.cache
+G:\CSproject\20170424M\ZGraph\obj\Debug\Pengpai.UI.Properties.Resources.resources
+G:\CSproject\20170424M\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+G:\CSproject\20170424M\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+G:\CSproject\20170424M\ZGraph\obj\Debug\ZGraph.dll
+G:\CSproject\20170424M\ZGraph\obj\Debug\ZGraph.pdb
+G:\CSproject\20170427M\ZGraph\bin\Debug\ZGraph.dll
+G:\CSproject\20170427M\ZGraph\bin\Debug\ZGraph.pdb
+G:\CSproject\20170427M\ZGraph\obj\Debug\ZGraph.csprojResolveAssemblyReference.cache
+G:\CSproject\20170427M\ZGraph\obj\Debug\Pengpai.UI.Properties.Resources.resources
+G:\CSproject\20170427M\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+G:\CSproject\20170427M\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+G:\CSproject\20170427M\ZGraph\obj\Debug\ZGraph.dll
+G:\CSproject\20170427M\ZGraph\obj\Debug\ZGraph.pdb
+G:\CSproject\20170505M\ZGraph\bin\Debug\ZGraph.dll
+G:\CSproject\20170505M\ZGraph\bin\Debug\ZGraph.pdb
+G:\CSproject\20170505M\ZGraph\obj\Debug\ZGraph.csprojResolveAssemblyReference.cache
+G:\CSproject\20170505M\ZGraph\obj\Debug\Pengpai.UI.Properties.Resources.resources
+G:\CSproject\20170505M\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+G:\CSproject\20170505M\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+G:\CSproject\20170505M\ZGraph\obj\Debug\ZGraph.dll
+G:\CSproject\20170505M\ZGraph\obj\Debug\ZGraph.pdb
+G:\CSproject\20170505M(vs2010版，去人脸识别)\ZGraph\bin\Debug\ZGraph.dll
+G:\CSproject\20170505M(vs2010版，去人脸识别)\ZGraph\bin\Debug\ZGraph.pdb
+G:\CSproject\20170505M(vs2010版，去人脸识别)\ZGraph\obj\Debug\ZGraph.csprojResolveAssemblyReference.cache
+G:\CSproject\20170505M(vs2010版，去人脸识别)\ZGraph\obj\Debug\Pengpai.UI.Properties.Resources.resources
+G:\CSproject\20170505M(vs2010版，去人脸识别)\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+G:\CSproject\20170505M(vs2010版，去人脸识别)\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+G:\CSproject\20170505M(vs2010版，去人脸识别)\ZGraph\obj\Debug\ZGraph.dll
+G:\CSproject\20170505M(vs2010版，去人脸识别)\ZGraph\obj\Debug\ZGraph.pdb
+G:\CSproject\201706019M(vs2010版，去人脸识别)\ZGraph\bin\Debug\ZGraph.dll
+G:\CSproject\201706019M(vs2010版，去人脸识别)\ZGraph\bin\Debug\ZGraph.pdb
+G:\CSproject\201706019M(vs2010版，去人脸识别)\ZGraph\obj\Debug\ZGraph.csprojResolveAssemblyReference.cache
+G:\CSproject\201706019M(vs2010版，去人脸识别)\ZGraph\obj\Debug\Pengpai.UI.Properties.Resources.resources
+G:\CSproject\201706019M(vs2010版，去人脸识别)\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+G:\CSproject\201706019M(vs2010版，去人脸识别)\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+G:\CSproject\201706019M(vs2010版，去人脸识别)\ZGraph\obj\Debug\ZGraph.dll
+G:\CSproject\201706019M(vs2010版，去人脸识别)\ZGraph\obj\Debug\ZGraph.pdb
+G:\CSproject\201706020M(vs2010版，去人脸识别)\ZGraph\bin\Debug\ZGraph.dll
+G:\CSproject\201706020M(vs2010版，去人脸识别)\ZGraph\bin\Debug\ZGraph.pdb
+G:\CSproject\201706020M(vs2010版，去人脸识别)\ZGraph\obj\Debug\ZGraph.csprojResolveAssemblyReference.cache
+G:\CSproject\201706020M(vs2010版，去人脸识别)\ZGraph\obj\Debug\Pengpai.UI.Properties.Resources.resources
+G:\CSproject\201706020M(vs2010版，去人脸识别)\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+G:\CSproject\201706020M(vs2010版，去人脸识别)\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+G:\CSproject\201706020M(vs2010版，去人脸识别)\ZGraph\obj\Debug\ZGraph.dll
+G:\CSproject\201706020M(vs2010版，去人脸识别)\ZGraph\obj\Debug\ZGraph.pdb

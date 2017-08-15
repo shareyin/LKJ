@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FADA6ADF-0EFD-4701-A8BD-EFB44DBC032B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Test</RootNamespace>
+    <AssemblyName>Test</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Emgu.CV.UI, Version=3.1.0.2282, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Emgu.CV.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.World, Version=3.1.0.2282, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Emgu.CV.World.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>D:\360安全浏览器下载\门禁识别\bin\Debug\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="iFlyDotNet">
+      <HintPath>..\ZGraph\bin\Debug\iFlyDotNet.dll</HintPath>
+    </Reference>
+    <Reference Include="King">
+      <HintPath>D:\360安全浏览器下载\门禁识别\bin\Debug\King.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Tools, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="NAudio">
+      <HintPath>D:\360安全浏览器下载\门禁识别\bin\Debug\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI">
+      <HintPath>D:\360安全浏览器下载\门禁识别\bin\Debug\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph">
+      <HintPath>D:\360安全浏览器下载\门禁识别\bin\Debug\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FaceRec\faceDetect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FaceRec\faceDetect.designer.cs">
+      <DependentUpon>faceDetect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FaceRec\KingFaceDetect.cs" />
+    <Compile Include="FaceRec\TTS.cs" />
+    <Compile Include="FormTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTest.Designer.cs">
+      <DependentUpon>FormTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formcssd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formcssd.Designer.cs">
+      <DependentUpon>Formcssd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formcx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formcx.Designer.cs">
+      <DependentUpon>Formcx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formdczt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formdczt.Designer.cs">
+      <DependentUpon>Formdczt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\FormFuction.cs" />
+    <Compile Include="FunForm\Formfzcxcqr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formfzcxcqr.Designer.cs">
+      <DependentUpon>Formfzcxcqr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formglcssr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formglcssr.Designer.cs">
+      <DependentUpon>Formglcssr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formgwxlcx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formgwxlcx.Designer.cs">
+      <DependentUpon>Formgwxlcx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formjbsjcx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formjbsjcx.Designer.cs">
+      <DependentUpon>Formjbsjcx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formjscz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formjscz.Designer.cs">
+      <DependentUpon>Formjscz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formmsxz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formmsxz.Designer.cs">
+      <DependentUpon>Formmsxz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formqjzy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formqjzy.Designer.cs">
+      <DependentUpon>Formqjzy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formqjzybz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formqjzybz.Designer.cs">
+      <DependentUpon>Formqjzybz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formqjzyfh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formqjzyfh.Designer.cs">
+      <DependentUpon>Formqjzyfh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formqjzyfp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formqjzyfp.Designer.cs">
+      <DependentUpon>Formqjzyfp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formqjzyjr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formqjzyjr.Designer.cs">
+      <DependentUpon>Formqjzyjr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formrgjs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formrgjs.Designer.cs">
+      <DependentUpon>Formrgjs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formsbzj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formsbzj.Designer.cs">
+      <DependentUpon>Formsbzj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formsbzkcx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formsbzkcx.Designer.cs">
+      <DependentUpon>Formsbzkcx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formsdsrjc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formsdsrjc.Designer.cs">
+      <DependentUpon>Formsdsrjc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formsjsz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formsjsz.Designer.cs">
+      <DependentUpon>Formsjsz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunForm\Formsrzx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunForm\Formsrzx.Designer.cs">
+      <DependentUpon>Formsrzx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Member.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FaceRec\faceDetect.resx">
+      <DependentUpon>faceDetect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTest.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formcssd.resx">
+      <DependentUpon>Formcssd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formcx.resx">
+      <DependentUpon>Formcx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formdczt.resx">
+      <DependentUpon>Formdczt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formfzcxcqr.resx">
+      <DependentUpon>Formfzcxcqr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formglcssr.resx">
+      <DependentUpon>Formglcssr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formgwxlcx.resx">
+      <DependentUpon>Formgwxlcx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formjbsjcx.resx">
+      <DependentUpon>Formjbsjcx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formjscz.resx">
+      <DependentUpon>Formjscz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formmsxz.resx">
+      <DependentUpon>Formmsxz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formqjzy.resx">
+      <DependentUpon>Formqjzy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formqjzybz.resx">
+      <DependentUpon>Formqjzybz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formqjzyfh.resx">
+      <DependentUpon>Formqjzyfh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formqjzyfp.resx">
+      <DependentUpon>Formqjzyfp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formqjzyjr.resx">
+      <DependentUpon>Formqjzyjr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formrgjs.resx">
+      <DependentUpon>Formrgjs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formsbzj.resx">
+      <DependentUpon>Formsbzj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formsbzkcx.resx">
+      <DependentUpon>Formsbzkcx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formsdsrjc.resx">
+      <DependentUpon>Formsdsrjc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formsjsz.resx">
+      <DependentUpon>Formsjsz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunForm\Formsrzx.resx">
+      <DependentUpon>Formsrzx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ZGraph\ZGraph.csproj">
+      <Project>{E96CE265-B9F8-40D1-9A47-E2C3E230AA0F}</Project>
+      <Name>ZGraph</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Image\" />
+    <Folder Include="Sound\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Signal\double-yellow.ico" />
+    <Content Include="Signal\green-yellow.ico" />
+    <Content Include="Signal\green.ico" />
+    <Content Include="Signal\red-yellow.ico" />
+    <Content Include="Signal\red.ico" />
+    <Content Include="Signal\white.ico" />
+    <Content Include="Signal\yellow.ico" />
+    <Content Include="Signal\yellow2.ico" />
+    <Content Include="Signal\双黄灯.ico" />
+    <Content Include="Signal\白灯.ico" />
+    <Content Include="Signal\红黄灯.ico" />
+    <Content Include="Signal\绿灯.ico" />
+    <Content Include="Signal\绿黄灯.ico" />
+    <Content Include="Signal\黄二灯.ico" />
+    <Content Include="Signal\黄灯.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{00000205-0000-0010-8000-00AA006D2EA4}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MSComctlLib">
+      <Guid>{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MSDATASRC">
+      <Guid>{7C0FFAB0-CD84-11D0-949A-00A0C91110ED}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="OWC11">
+      <Guid>{0002E558-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
